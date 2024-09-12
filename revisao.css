@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap');
+.pai{
+    display: flex;
+    margin: auto;
+    border: solid 3px black ;
+    width: 1400px;
+}
+
+p{
+    padding-left: 60px;
+    font-family: "Nunito", sans-serif;
+    font-size: small;
+    width: 260px;
+
+}
+
+ .h{
+    font-family: "Ruda", sans-serif;
+    font-weight: bold;
+    padding-left: 60px;
+    font-size: medium;
+    font-weight: 900;
+    
+}
+
+.h1{
+    font-size: 55px;
+    font-weight: 900;
+}
+
+#esquerdo{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 200vh;
+    line-height: 12px;
+ 
+}
+
+img{
+    width: 200px;
+    right: 50px;
+    padding-left: 90px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+#direito{
+    background-color: #ffffff;
+    width: 840px;
+    height: 200vh;
+  
+
+}
+.div1{
+    margin-bottom: 45px;
+}
+.b1{
+    margin-bottom: 45px;
+}
+
+.b2{
+    margin-bottom: 45px;
+}
+
+.b3{
+    margin-bottom: 45px;
+}
+
+.bb1{
+    margin-bottom: 45px;
+}
+
+.bb2{
+    margin-bottom: 45px;
+}
